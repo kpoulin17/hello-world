@@ -7,3 +7,4 @@ This is an update to try to push to github from a bash terminal
 This is another attempt at updating a github repository from bash terminal
 One more try?
 Editing again because I can
+Why more edits you ask?
